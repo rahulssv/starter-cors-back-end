@@ -4,7 +4,7 @@
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Thinkful-Ed/starter-cors-back-end"
+    "url": "https://github.com/rahulssv/starter-cors-back-end"
   },
   "main": "src/server.js",
   "scripts": {
